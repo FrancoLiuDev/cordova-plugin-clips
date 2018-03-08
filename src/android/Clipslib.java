@@ -1,4 +1,4 @@
-package leedian-plugin-clipslib;
+package leedian.plugin.clipslib;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
