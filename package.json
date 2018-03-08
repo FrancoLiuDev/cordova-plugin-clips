@@ -1,0 +1,22 @@
+{
+  "name": "leedian-plugin-clipslib",
+  "version": "0.0.1",
+  "description": "leedian-plugin-clipslib",
+  "cordova": {
+    "id": "leedian-plugin-clipslib",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoLiuDev/cordova-plugin-clips.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoLiuDev/cordova-plugin-clips/issues"
+  },
+  "homepage": "https://github.com/FrancoLiuDev/cordova-plugin-clips#readme"
+}
